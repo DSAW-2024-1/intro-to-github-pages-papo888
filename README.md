@@ -10,6 +10,11 @@ Para esto es necesario que suban los cambios de su repositorio anterior a este r
      - En lugar de hacer ⁠ git push origin master ⁠ deberán usar el nombre del nuevo remoto, es decir: ⁠ git push NOMBRE_DE_REFERENCIA_DEL_NUEVO_REMOTO master ⁠
 
 
+Fotos de los jueguitos:
+![Foto Froggy](./design/flexboxfroggy.png)
+![Foto Garden](./design/girdgarden.png)
+![Foto Diner](./design/cssdiner.png)
+
 ## Sitio web Desplegado
 El taller estará finalizado una vez suban su página a internet y agregue a continuación el link:
-•⁠  ⁠**Link del sitio web desplegado: **
+•⁠  ⁠**Link del sitio web: https://dsaw-2024-1.github.io/intro-to-github-pages-papo888/ **
